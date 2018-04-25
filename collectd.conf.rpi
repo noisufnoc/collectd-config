@@ -10,6 +10,7 @@ LoadPlugin processes
 LoadPlugin swap
 LoadPlugin syslog
 LoadPlugin tcpconns
+LoadPlugin thermal
 LoadPlugin uptime
 LoadPlugin users
 LoadPlugin write_http
