@@ -3,7 +3,6 @@ LoadPlugin conntrack
 LoadPlugin cpu
 LoadPlugin df
 LoadPlugin disk
-LoadPlugin filecount
 LoadPlugin interface
 LoadPlugin load
 LoadPlugin memory
